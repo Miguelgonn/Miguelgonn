@@ -1,7 +1,7 @@
-# 🚀 Missão Aurora Singer
+# 🚀 Missão Aurora Siger
 ### 📌 Sobre o projeto
 
-A Missão Aurora Singer é uma simulação de uma missão espacial, focada na etapa de pré-decolagem da nave Aurora.
+A Missão Aurora Siger é uma simulação de uma missão espacial, focada na etapa de pré-decolagem da nave Aurora.
 
 A proposta é usar Python para analisar dados de telemetria e tomar a decisão automática: se o foguete pode decolar ou deve abortar.
 

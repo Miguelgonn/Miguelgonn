@@ -44,6 +44,18 @@ Retorna o resultado final da missão
 
 O código está disponível no arquivo .ipynb no repositório.
 
+### 🧾CSV Explicação 
+
+<img width="626" height="556" alt="csv" src="https://github.com/user-attachments/assets/e4fff6f7-edd3-4c50-a093-0abd50f87f93" />
+
+
+O dataset registra a cada minuto todos os sinais vitais do foguete, agrupados em quatro grandes áreas:
+Sensores internos (lado esquerdo) — temperatura do interior da estrutura, pressão do tanque de propelente, integridade estrutural e carga de potência dos sistemas embarcados.
+
+Sistemas externos (lado direito) — temperatura ambiente, todo o sistema de bateria (tensão, corrente, estado de carga, capacidade e energia disponível), status dos módulos críticos e o link de telemetria com o solo.
+
+Saídas e decisões (embaixo) — a autonomia estimada calculada em tempo real, a decisão automática de lançamento (Launch ou Hold) e a coluna anomalia_inserida, que é o ground truth da simulação: marca os instantes onde foi injetada artificialmente uma falha, para treinar ou avaliar um modelo de detecção
+
 
 ### ▶️ Como executar
 Baixe ou clone o repositório:

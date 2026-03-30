@@ -49,6 +49,8 @@ O código está disponível no arquivo .ipynb no repositório.
 <img width="626" height="556" alt="csv" src="https://github.com/user-attachments/assets/e4fff6f7-edd3-4c50-a093-0abd50f87f93" />
 
 
+
+
 O dataset registra a cada minuto todos os sinais vitais do foguete, agrupados em quatro grandes áreas:
 Sensores internos (lado esquerdo) — temperatura do interior da estrutura, pressão do tanque de propelente, integridade estrutural e carga de potência dos sistemas embarcados.
 

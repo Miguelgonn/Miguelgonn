@@ -47,7 +47,7 @@ O código está disponível no arquivo .ipynb no repositório.
 
 ### ▶️ Como executar
 Baixe ou clone o repositório:
-git clone [https://github.com/Miguelgonn/Miguelgonn/blob/main/Aurora_siger_FIAP.ipynb]
+git clone [https://github.com/Miguelgonn/Miguelgonn]
 Abra o arquivo .ipynb no Jupyter Notebook ou Google Colab
 Execute as células em ordem
 

@@ -32,6 +32,25 @@ Comunicação com a base
 
 O algoritmo foi desenvolvido para verificar se todas as condições estão seguras antes da decolagem.
 
+### 🤖 Inteligência Artificial
+
+O projeto utiliza um modelo de Machine Learning (Random Forest Classifier) para prever a decisão de lançamento com base nos dados de telemetria.
+
+Além disso, foi realizada uma análise assistida por IA, permitindo:
+
+Identificação de padrões críticos
+Detecção de riscos operacionais
+Interpretação dos dados em linguagem natural.
+
+### ⚡ Análise energética
+
+Foi implementado um cálculo de eficiência energética considerando:
+
+Energia disponível (kWh)
+Perdas energéticas (%)
+Energia útil
+
+Isso permite avaliar a viabilidade energética da missão antes da decolagem.
 
 ### 🧾 Script em Python
 

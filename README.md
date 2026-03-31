@@ -79,10 +79,22 @@ Saídas e decisões (embaixo) — a autonomia estimada calculada em tempo real, 
 
 
 ### ▶️ Como executar
-Baixe ou clone o repositório:
-git clone [https://github.com/Miguelgonn/Miguelgonn]
-Abra o arquivo .ipynb no Jupyter Notebook ou Google Colab
-Execute as células em ordem
+1. Clonar o repositório
+git clone https: https://github.com/Miguelgonn/Aurora_Siger
+
+2. Acessar a pasta
+cd Aurora_Siger
+
+3. Instalar dependências
+pip install pandas matplotlib seaborn scikit-learn
+
+4. Executar o notebook
+
+Abra o arquivo:
+
+Aurora_siger_FIAP.ipynb
+
+E execute as células em ordem.
 
 ### 📷 Prints da execução
 
